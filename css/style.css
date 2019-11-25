@@ -1,0 +1,39 @@
+body{
+ background-color:#BEBEBE;
+ text-align: center;
+}
+
+h2{
+ font-size: 22px;
+ color: #FFFFFF;
+ text-align: center;
+ font-weight:bold;
+ border-style: solid dotted none dotted;
+
+}
+
+b{
+ color:#2F4F4F;
+ font-size: 25px;
+text-align: center;
+font-style: italic;
+
+}
+
+.text {
+  font-weight: 700;
+  color: rgb(177, 20, 96);
+  text-align: center; 
+
+}
+
+.text-big{
+ text-decoration: line-through;
+ text-align: center;
+ border-style:solid;
+}
+
+p{
+ text-align: center;
+ font-weight:bold;
+}
